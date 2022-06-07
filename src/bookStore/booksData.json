@@ -1,0 +1,181 @@
+
+{
+    "data":[
+    {
+        "id":1,
+        "img":"https://m.media-amazon.com/images/I/41r7b5RninL._SY346_.jpg",
+        "title":"This Time Tomorrow",
+        "author":"Emma Straub",
+        "about":"On the eve of her 40th birthday, Alice’s life isn’t terrible. She likes her job, even if it isn’t exactly the one she expected. She’s happy with her apartment, her romantic status, her independence, and she adores her lifelong best friend. But her father is ailing, and it feels to her as if something is missing. When she wakes up the next morning she finds herself back in 1996, reliving her 16th birthday. But it isn’t just her adolescent body that shocks her, or seeing her high school crush, it’s her dad:  the vital, charming, 40-something version of her father with whom she is reunited. Now armed with a new perspective on her own life and his, some past events take on new meaning. Is there anything that she would change if she could?",
+        "price":14,
+        "qty":1  
+    },
+    {
+        "id":2,
+        "img":"https://m.media-amazon.com/images/I/416mUu6I0UL.jpg",
+        "title":"Mean Baby",
+        "author":"Selma Blair",
+        "about":"The first story Selma Blair Beitner ever heard about herself is that she was a mean, mean baby. With her mouth pulled in a perpetual snarl and a head so furry it had to be rubbed to make way for her forehead, Selma spent years living up to her terrible reputation: biting her sisters, lying spontaneously, getting drunk from Passover wine at the age of seven, and behaving dramatically so that she would be the center of attention.",
+        "price":15,
+        "qty":1  
+    },
+    {
+        "id":3,
+        "img":"https://m.media-amazon.com/images/I/51pFNnDSdeL._SY346_.jpg",
+        "title":"River of the Gods",
+        "author":"Candice Millard",
+        "about":"The harrowing story of one of the great feats of exploration of all time and its complicated legacy—from the New York Times bestselling author of The River of Doubt and Destiny of the Republic For millennia the location of the Nile River’s headwaters was shrouded in mystery. In the 19th century, there was  a frenzy of interest in ancient Egypt. At the same time, European powers sent off waves of explorations intended to map the unknown corners of the globe – and extend their colonial empires.",
+        "price":20,
+        "qty":1   
+    },
+    {
+        "id":4,
+        "img":"https://m.media-amazon.com/images/I/51FMrMyJBNL._SY346_.jpg",
+        "title":"Remarkably Bright Creatures",
+        "author":"Shelby Van Pelt",
+        "about":"After Tova Sullivan’s husband died, she began working the night shift at the Sowell Bay Aquarium, mopping floors and tidying up. Keeping busy has always helped her cope, which she’s been doing since her eighteen-year-old son, Erik, mysteriously vanished on a boat in Puget Sound over thirty years ago. Tova becomes acquainted with curmudgeonly Marcellus, a giant Pacific octopus living at the aquarium. Marcellus knows more than anyone can imagine but wouldn’t dream of lifting one of his eight arms for his human captors—until he forms a remarkable friendship with Tova.",
+        "price":10,
+        "qty":1  
+          
+    },
+    {
+        "id":5,
+        "img":"https://m.media-amazon.com/images/I/510sYnD2ezS._SY346_.jpg",
+        "title":"Sleepwalk",
+        "author":"Dan Chaon",
+        "about":"Sleepwalk’s hero, Will Bear, is a man with so many aliases that he simply thinks of himself as the Barely Blur. At fifty years old, he’s been living off the grid for over half his life. He’s never had a real job, never paid taxes, never been in a committed relationship. A good-natured henchman with a complicated and lonely past and a passion for LSD microdosing, he spends his time hopscotching across state lines in his beloved camper van, running sometimes shady often dangerous errands for a powerful and ruthless operation he’s never troubled himself to learn too much about. He has lots of connections, but no true ties. His longest relationships are with an old rescue dog that has post-traumatic stress and a childhood friend as deeply entrenched in the underworld as he is, who, lately, he’s less and less sure he can trust.",
+        "price":25,
+        "qty":1  
+          
+    },
+    {
+        "id":6,
+        "img":"https://m.media-amazon.com/images/I/51zTUijzdkL._SY346_.jpg",
+        "title":"Unmasked",
+        "author":"Paul Holes",
+        "about":"From the detective who found the Golden State Killer, a memoir that grabs its reader in a stranglehold and proves more fascinating than fiction and darker than any noir narrative. I order another bourbon, neat. This is the drink that will flip the switch. I don’t even know how I got here, to this place, to this point. Something is happening to me lately. I am drinking too much. My sheets are soaking wet when I wake up from nightmares of decaying corpses. I order another drink and swig it, trying to forget about the latest case I cant shake.",
+        "price":12,
+        "qty":1  
+          
+    },
+    {
+        "id":7,
+        "img":"https://m.media-amazon.com/images/I/51CaCGdbylL._SY346_.jpg",
+        "title":"The Other Mother",
+        "author":"Rachel M. Harper ",
+        "about":"Jenry Castillo is a musical prodigy, raised by a single mother in Miami. He arrives at Brown University on a scholarship—but also to learn more about his late father, Jasper Patterson, a famous ballet dancer who died tragically when Jenry was two. On his search, he meets his estranged grandfather, Winston Patterson, a legendary professor of African American history and a fixture at the Ivy League school, who explodes his world with one question: Why is Jenry so focused on Jasper, when it was Winston’s daughter, Juliet, who was romantically involved with Jenry’s mother? Juliet is the parent he should be looking for—his other mother.",
+        "price":22,
+        "qty":1  
+          
+    },
+    {
+        "id":8,
+        "img":"https://m.media-amazon.com/images/I/51pfwFKNgRL._SY346_.jpg",
+        "title":"Hidden Pictures",
+        "author":"Jason Rekulak ",
+        "about":"Fresh out of rehab, Mallory Quinn takes a job as a babysitter for Ted and Caroline Maxwell. She is to look after their five-year-old son, Teddy. Mallory immediately loves it. She has her own living space, goes out for nightly runs, and has the stability she craves. And she sincerely bonds with Teddy, a sweet, shy boy who is never without his sketchbook and pencil. His drawings are the usual fare: trees, rabbits, balloons. But one day, he draws something different: a man in a forest, dragging a woman’s lifeless body.",
+        "price":18,
+        "qty":1  
+          
+    },
+    {
+        "id":9,
+        "img":"https://m.media-amazon.com/images/I/51j-AUBsPpL._SY346_.jpg",
+        "title":"Such Big Dreams",
+        "author":"Reema Patel",
+        "about":"Rakhi is a twenty-three-year-old haunted by the grisly aftermath of an incident that led to the loss of her best friend eleven years ago. Constantly reminded she doesn’t belong, Rakhi lives alone in a Mumbai slum, working as a lowly office assistant at Justice For All, a struggling human-rights law organization headed by the renowned lawyer who gave her a fresh start. Fiercely intelligent and in possession of a sharp wit and an even sharper tongue, Rakhi is nobody’s fool, even if she is underestimated by everyone around her. Rakhi’s life isn’t much, but she’s managing. That is, until Rubina Mansoor, a fading former Bollywood starlet, tries to edge her way back into the spotlight by becoming a celebrity ambassador for Justice For All. Steering the organization into uncharted territories, she demands an internship for Alex, a young family friend from Canada and Harvard-bound graduate student. Ambitious, persistent, and naïve, Alex persuades Rakhi to show him “the real” India. In exchange, he’ll do something to further Rakhi’s dreams in a transaction that seems harmless, at first.",
+        "price":20,
+        "qty":1  
+          
+    },
+    {
+        "id":10,
+        "img":"https://m.media-amazon.com/images/I/41QhHsJRDOL._SY346_.jpg",
+        "title":"Family of Liars",
+        "author":"E. Lockhart",
+        "about":"The thrilling prequel to the TikTok phenomenon and #1 New York Times bestseller We Were Liars takes readers back to the story of another summer, another generation, and the secrets that will haunt them for decades to come. A windswept private island off the coast of Massachusetts. A hungry ocean, churning with secrets and sorrow. A fiery, addicted heiress. An irresistible, unpredictable boy. A summer of unforgivable betrayal and terrible mistakes.",
+        "price":11,
+        "qty":1  
+          
+    },
+    {
+        "id":11,
+        "img":"https://m.media-amazon.com/images/I/41lbwlX5FxL.jpg",
+        "title":"Siren Queen",
+        "author":"Nghi Vo",
+        "about":"No maids, no funny talking, no fainting flowers.” Luli Wei is beautiful, talented, and desperate to be a star. Coming of age in pre-Code Hollywood, she knows how dangerous the movie business is and how limited the roles are for a Chinese American girl from Hungarian Hill—but she doesn't care. She’d rather play a monster than a maid. But in Luli's world, the worst monsters in Hollywood are not the ones on screen. The studios want to own everything from her face to her name to the women she loves, and they run on a system of bargains made in blood and ancient magic, powered by the endless sacrifice of unlucky starlets like her. For those who do survive to earn their fame, success comes with a steep price. Luli is willing to do whatever it takes—even if that means becoming the monster herself.",
+        "price":19,
+        "qty":1  
+          
+    },
+    {
+        "id":12,
+        "img":"https://m.media-amazon.com/images/I/51fjmEcwyUL._SY346_.jpg",
+        "title":"The Change",
+        "author":"Kirsten Miller ",
+        "about":"In the Long Island oceanfront community of Mattauk, three different women discover that midlife changes bring a whole new type of empowerment. After Nessa James’s husband dies and her twin daughters leave for college, she’s left all alone in a trim white house not far from the ocean. In the quiet of her late forties, the former nurse begins to hear voices. It doesn’t take long for Nessa to realize that the voices calling out to her belong to the dead—a gift she’s inherited from her grandmother, which comes with special responsibilities.",
+        "price":16,
+        "qty":1  
+          
+    },
+    {
+        "id":13,
+        "img":"https://m.media-amazon.com/images/I/81GrCFh4oEL._AC_UL320_.jpg",
+        "title":"The Lincoln Highway",
+        "author":"Amor Towles",
+        "about":"In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+        "price":12,
+        "qty":1  
+          
+    },
+    {
+        "id":14,
+        "img":"https://m.media-amazon.com/images/I/71EwoNQypZL._AC_UL320_.jpg",
+        "title":"It Ends with Us",
+        "author":"Colleen Hoover ",
+        "about":"Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true. Ryle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place.",
+        "price":15,
+        "qty":1  
+          
+    },
+    {
+        "id":15,
+        "img":"https://m.media-amazon.com/images/I/71AxayUvIHL._AC_UY218_.jpg",
+        "title":"Wonder",
+        "author":"R. J. Palacio ",
+        "about":"August Pullman was born with a facial difference that, up until now, has prevented him from going to a mainstream school. Starting 5th grade at Beecher Prep, he wants nothing more than to be treated as an ordinary kid—but his new classmates can’t get past Auggie’s extraordinary face. Beginning from Auggie’s point of view and expanding to include his classmates, his sister, her boyfriend, and others, the perspectives converge to form a portrait of one community’s struggle with empathy, compassion, and acceptance. In a world where bullying among young people is an epidemic, this is a refreshing new narrative full of heart and hope.",
+        "price":7,
+        "qty":1  
+          
+    },
+    {
+        "id":16,
+        "img":"https://m.media-amazon.com/images/I/91LGFCdBuHL._AC_UY218_.jpg",
+        "title":"A Place for Us",
+        "author":"Fatima Farheen Mirza ",
+        "about":"As an Indian wedding gathers a family back together, parents Rafiq and Layla must reckon with the choices their children have made. There is Hadia: their headstrong, eldest daughter, whose marriage is a match of love and not tradition. Huda, the middle child, determined to follow in her sister’s footsteps. And lastly, their estranged son, Amar, who returns to the family fold for the first time in three years to take his place as brother of the bride. What secrets and betrayals have caused this close-knit family to fracture? Can Amar find his way back to the people who know and love him best?",
+        "price":10,
+        "qty":1  
+          
+    },
+    {
+        "id":17,
+        "img":"https://m.media-amazon.com/images/I/B1Mm00+XMQS._AC_UY218_.jpg",
+        "title":"Sea of Tranquility",
+        "author":"Emily St. John Mandel",
+        "about":"Edwin St. Andrew is eighteen years old when he crosses the Atlantic by steamship, exiled from polite society following an ill-conceived diatribe at a dinner party. He enters the forest, spellbound by the beauty of the Canadian wilderness, and suddenly hears the notes of a violin echoing in an airship terminal—an experience that shocks him to his core. ",
+        "price":20,
+        "qty":1  
+          
+    },
+    {
+        "id":18,
+        "img":"https://m.media-amazon.com/images/I/81tCtHFtOgL._AC_UY218_.jpg",
+        "title":"The Midnight Library",
+        "author":"Matt Haig",
+        "about":"Somewhere out beyond the edge of the universe there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better? ",
+        "price":23,
+        "qty":1  
+          
+    }
+]}
